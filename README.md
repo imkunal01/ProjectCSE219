@@ -1,34 +1,34 @@
-**Table of Contents**
+# Personal Project
 =================
 
+## Table of Contents
 * [Introduction](#introduction)
 * [Features](#features)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing)
 * [License](#license)
 
 ## Introduction
 ------------
 
-Welcome to Khatarnak SI, a [briefly describe your project]. This project aims to [briefly describe the purpose of your project].
+Welcome to my personal project, a simple and minimalistic project.
 
 ## Features
 ------------
 
-* [List the features of your project]
-* [List the features of your project]
-* [List the features of your project]
+* Simple design
+* Easy to use
+* Fast and efficient
 
 ## Installation
 ------------
 
-To install Khatarnak SI, follow these steps:
+To install this project, follow these steps:
 
 ### Prerequisites
 
-* [List the prerequisites for your project]
-* [List the prerequisites for your project]
+* Node.js installed
+* A code editor
 
 ### Installation Steps
 
@@ -44,15 +44,11 @@ cd your-repo-name
    ```bash
 npm install
 ```
-   or
-   ```bash
-yarn install
-```
 
 ## Usage
 -----
 
-To use Khatarnak SI, follow these steps:
+To use this project, follow these steps:
 
 ### Running the Application
 
@@ -60,29 +56,8 @@ To use Khatarnak SI, follow these steps:
    ```bash
 npm start
 ```
-   or
-   ```bash
-yarn start
-```
-
-### API Documentation
-
-* [List the API endpoints and their descriptions]
-
-## Contributing
-------------
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 -------
 
-Distributed under the [License Name]. See `LICENSE` for more information.
-
-**Note:** Replace the placeholder text with your actual project information.
+Distributed under the MIT License. See `LICENSE` for more information.
